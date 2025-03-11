@@ -52,4 +52,5 @@ The increasing complexity of diseases, vast amounts of patient data, and time co
 
 ## **Contributors**  
 - Amruthaluri Gavin
+
 🚀 **Transforming healthcare with AI for faster, more accurate diagnosis!**
