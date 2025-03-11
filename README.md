@@ -35,11 +35,11 @@ The increasing complexity of diseases, vast amounts of patient data, and time co
 ## **How to Run the Project**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/AI-Medical-Diagnosis.git
+   git clone https://github.com/yourusername/AI-Powered-Medical-Diagnosis-System.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd AI-Medical-Diagnosis
+   cd AI-Powered-Medical-Diagnosis-System
    ```
 3. Install dependencies:  
    ```bash
