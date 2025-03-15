@@ -68,7 +68,7 @@ def display_input(label, tooltip, key, type="text"):
 
 # Diabetes Prediction Page
 if selected == 'Diabetes Prediction':
-    st.title('Diabetes')
+    st.markdown("## **Diabetes Prediction**")
     st.write("Enter the following details to predict diabetes:")
 
     Pregnancies = display_input('Number of Pregnancies', 'Enter number of times pregnant', 'Pregnancies', 'number')
