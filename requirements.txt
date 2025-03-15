@@ -6,3 +6,5 @@ matplotlib
 seaborn  
 joblib  
 requests  
+pickle-mixin
+streamlit-option-menu
